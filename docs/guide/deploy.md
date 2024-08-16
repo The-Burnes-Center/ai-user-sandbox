@@ -77,7 +77,7 @@ git clone https://github.com/The-Burnes-Center/gen-ai-sandbox-for-impact.git
 2. Move into the cloned repository
 
 ```bash
-cd aws-genai-llm-chatbot
+cd EOTSS-AWS-Secret-Project
 ```
 
 #### (Optional) Only for Cloud9
