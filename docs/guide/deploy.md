@@ -71,7 +71,7 @@ You have:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/aws-samples/aws-genai-llm-chatbot
+git clone https://github.com/The-Burnes-Center/gen-ai-sandbox-for-impact.git
 ```
 
 2. Move into the cloned repository
